@@ -15,7 +15,6 @@
 2. (a + b > с | c < d)  & d = e 
  */
 
-
 using System;
 using System.Collections.Generic;
 using System.Linq;
